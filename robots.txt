@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://tietosuojaseloste.dokufolio.com/sitemap.xml
